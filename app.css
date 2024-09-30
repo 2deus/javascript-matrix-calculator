@@ -1,0 +1,17 @@
+td, tr {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+  }
+
+table {
+    padding-bottom: 16px;
+}
+
+input {
+    width: 15px;
+}
+
+input.field {
+    width: auto;
+}
